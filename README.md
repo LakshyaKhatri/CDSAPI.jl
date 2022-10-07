@@ -70,7 +70,7 @@ Dict{String,Any} with 6 entries:
 
 ## Contributors
 
-@michiboo @juliohm @LakshyaKhatri
+@LakshyaKhatri
 
 [build-img]: https://img.shields.io/github/workflow/status/JuliaClimate/CDSAPI.jl/CI?style=flat-square
 [build-url]: https://github.com/JuliaClimate/CDSAPI.jl/actions
